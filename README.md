@@ -172,10 +172,10 @@ This project demonstrates various data structures and algorithms concepts. Feel 
 └── Main Interface (Menu-driven system)
 ```
 ## Group Members
-Ayesha Mansoor
-Dania Taj
-Naqiya Ezzy
-Sakina Abbas
+- Ayesha Mansoor
+- Dania Taj
+- Naqiya Ezzy
+- Sakina Abbas
 ## Learning Outcomes
 This project demonstrates:
 - **Data Structure Implementation**: AVL trees, priority queues, linked lists
